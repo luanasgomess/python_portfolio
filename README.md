@@ -1,3 +1,17 @@
+# Carrinho de compras simples (Python puro)
+
+Este é um projeto básico em Python que simula um carrinho de compras, permitindo adicionar produtos e calcular o valor total da compra.
+
+## Funcionalidades
+
+Adicionar produtos ao carrinho com seus respectivos preços Calcular o valor total da compra com base nos produtos adicionados
+
+## Como usar
+Calcula o valor total de cada item
+
+
+
+
 # Calculadora Interativa (Python puro)
 
 Uma calculadora simples de terminal, feita apenas com Python. Permite ao usuário realizar operações básicas: adição, subtração, multiplicação e divisão.
@@ -11,6 +25,9 @@ Uma calculadora simples de terminal, feita apenas com Python. Permite ao usuári
 ## Como usar
 
 Execute o arquivo `calculadora.py` com Python 3 instalado.
+
+
+
 
 # Sistema de Login (Python puro)
 
